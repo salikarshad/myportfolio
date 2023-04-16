@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family:Poppins;
+}
+
+.row {
+    /* border-bottom: 1px solid #E5E4E2 ; */
+    overflow: hidden;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.logo {
+    float: left;
+    font-weight:bold;
+    font-size: large;
+    color: dodgerblue;    
+}
+
+.navbar {
+    list-style: none;
+    float: right;
+    margin-top: 22px;
+    font-size:large;
+    font-weight: bold;
+}
+
+.navbar > li{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+.header{
+    /* display: inline; */
+}
+.banner{
+    font-weight: bold;
+    font-size: 40px;
+    float: left;
+    margin-top: 30px;
+    
+}
+.border{
+    border-bottom: 1px solid #E5E4E2 ;
+
+}
+.button{
+    border-radius: 4px;
+    border: none;
+    background-color: dodgerblue;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    font-size: 25px;
+    color: #E5E4E2;
+    
+    
+}
+.spa{
+    color: dodgerblue;
+
+}
+.img > img{
+    float: right;
+    width: 280px;
+    height: 280px;
+    border-radius: 280px;
+    margin-top: 80px;
+    border: 1px solid;
+    box-shadow: 
+        2px 4px 10px grey,
+        -2px -4px 10px grey;
+    
+    
+    
+    /* width: 50px;
+    height: 50px; */
+}
+.icon{
+    margin: 100px 0px;
+    list-style: none;
+    padding: 0px;
+}
+
+.icon > li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icon > li > i {
+    font-size: 20px;
+}
