@@ -4,11 +4,12 @@ body {
     font-family:Poppins;
 }
 
-.row {
+.row{
     /* border-bottom: 1px solid #E5E4E2 ; */
     overflow: hidden;
     padding-left: 150px;
     padding-right: 150px;
+    
 }
 
 .logo {
@@ -39,11 +40,12 @@ body {
 }
 .banner{
     font-weight: bold;
-    font-size: 40px;
+    font-size: 30px;
     float: left;
     margin-top: 30px;
     
 }
+
 .border{
     border-bottom: 1px solid #E5E4E2 ;
 
@@ -82,7 +84,7 @@ body {
     height: 50px; */
 }
 .icon{
-    margin: 100px 0px;
+    margin: 70px 0px;
     list-style: none;
     padding: 0px;
 }
@@ -96,3 +98,273 @@ body {
 .icon > li > i {
     font-size: 20px;
 }
+/* home page the end */
+/* about page staterd */
+.bannerabout{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    
+    
+
+}
+.spat{
+    color: dodgerblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btnta{
+    border-radius: 4px;
+    border: none;
+    background-color: dodgerblue;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    font-size: 25px;
+    color: #E5E4E2;
+
+}
+.boxinng{
+
+    float: left;
+    margin: 31px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    
+}
+.spnt{
+    color: dodgerblue;
+}
+.box{
+
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    margin-top: 30px;
+    background-color: rgb(196, 250, 196);
+}
+.experience{
+    float: right;
+    margin: 20px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+/* about the end */
+/* services offer started */
+.box123{
+    border-radius: 30px;
+    border: 1px solid rgb(196, 250, 196) ;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    margin: 18px;
+    height: 350px;
+    width: 250px;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 25px;
+}
+/* services offer the end */
+/* my recent works started */
+.imgbox{
+    border-radius: 30px;
+    border: 1px solid rgb(196, 250, 196) ;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    margin: 25px;
+    height: 420px;
+    width: 215px;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 25px;
+    
+}
+.imgbox > img{
+    border-radius: 80px;
+    height: 200px;
+    width: 200px;
+}
+/* the end */
+.imgbox2{
+    border-radius: 30px;
+    border: 1px solid rgb(196, 250, 196) ;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    height: 420px;
+    width: 215px;
+    margin: 25px;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 25px;
+
+}
+.imgbox2 > img{
+    border-radius: 80px;
+    height: 200px;
+    width: 200px;
+}
+/* the end */
+.imgbox3{
+    border-radius: 30px;
+    border: 1px solid rgb(196, 250, 196) ;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    margin: 25px;
+    height: 420px;
+    width: 215px;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 25px;
+
+}
+.imgbox3 > img{
+    border-radius: 80px;
+    height: 200px;
+    width: 200px;
+}
+/* the end */
+.mindbox{
+    border: 1px solid dodgerblue;
+    background-color: dodgerblue;
+   text-align: center;
+   height: 145px;
+   width: 90%;
+   color: white;
+   
+}
+.mindbox > h3 {
+    color: black;
+}
+.btnta12{
+    float: right;
+    border-radius: 4px;
+    border: none;
+    background-color: dodgerblue;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 30px;
+}
+/* my recent works the end */
+/* feedback form my clients started */
+.head12{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+   
+}
+.img1234{
+    border-radius: 10px;
+    float: left;
+    margin: 50px;
+   
+
+}
+.img1234 > img {
+    height: 300px;
+    width: 300px;
+}
+.textbox{
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    margin: 55px;
+
+}
+/* the end */
+.imgb2{
+    border-radius: 10px;
+    float: left;
+    margin: 50px;
+}
+.imgb2 > img {
+    height: 300px;
+    width: 300px;
+
+
+}
+.boxt2{
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: rgb(196, 250, 196);
+    float: left;
+    margin: 55px;
+
+}
+/* feedback form my clients the end */
+/* contact me started */
+.boxicon{
+   
+    float: left;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    margin: 82px;
+    background-color: rgb(196, 250, 196);
+    border-radius: 10px;
+    text-align: center;
+    color: dodgerblue;
+}
+.formbox{
+    margin-left: 218px;
+    height: 280px;
+    width: 280px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:  rgb(196, 250, 196);
+   text-align: center;
+   margin-bottom: 50px;
+   
+}
+.inpt > input{
+    margin: 10px 0;
+    height: 30px;
+    border: 0;
+    background: transparent;
+}
+.inpt > textarea{
+    background: transparent;
+    border: 0;
+}
+
+/* contact me the end */
+/* footer started */
+.footer{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer > h4{
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.footer > i{
+    columns: dodgerblue;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/* footer the end */
